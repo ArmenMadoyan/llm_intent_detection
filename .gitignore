@@ -76,3 +76,6 @@ dmypy.json
 *.tmp
 *.temp
 
+# Large data files
+routing_queries.csv
+
